@@ -1,9 +1,9 @@
-- name: 0+2+0
+- name: 0+2+0 #definition + positions of ls changed to ±45º for experimetal reasons 30.01.21
   channels:
-  - name: M+030
-    position: {az: 30.0, el: 0.0}
-  - name: M-030
-    position: {az: -30.0, el: 0.0}
+  - name: M+045
+    position: {az: 45.0, el: 0.0}
+  - name: M-045
+    position: {az: -45.0, el: 0.0}
 - name: 0+5+0
   channels:
   - name: M+030
