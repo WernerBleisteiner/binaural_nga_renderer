@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 setup(
-    name='nga-binaural',
+    name='nga-binaural-2-0-45',
     description='Binaural NGA Renderer',
     version='1.0.0',
     license='MIT',
